@@ -33,9 +33,9 @@
 
   - Absatz 2.1. Auf dem gesamten Netzwerk gilt eine allgemeine Netiquette. Wer andere beleidigt, ob direkt oder subtil, muss mit einem Ausschluss vom Netzwerk-Bereich rechnen.
 
-  - Absatz 2.2. Jegliches menschenfeindliche, rassistische, sexistische, nationalsozialistische oder andere, nach deutschem Recht unzulässige Verhalten ist verboten.
+  - Absatz 2.2. Jegliches menschenfeindliche, rassistische, sexistische, nationalsozialistische oder andere, nach deutschem Recht unzulässiges Verhalten ist verboten.
 
-- Absatz 3. Private Missverständnisse und Streitigkeiten sind privat zu behandeln.
+- Absatz 3. Private Missverständnisse und Streitigkeiten sind ebenfalls privat zu behandeln und sollen nicht auf unserem Netzwerk ausgetraten werden.
 
 - Absatz 4. Hatespeech ist auf diesem Server absolut verboten und wird mit einem permanenten Serverausschluss geahndet. Wer den Server nicht gut findet, der möge seine Äußerungen zum Wohle aller anderen Spieler für sich behalten und den Frieden im Spiel auf dem Server sowie allen weiteren Plattformen nicht stören.
 
@@ -111,7 +111,7 @@
 
   - Absatz 3.5. Plugins wie z.B. das "Love-Plugin" sind nicht erlaubt. Darunter gelten auch Plugins, die die IP verbergen etc.
 
-  - Absatz 3.6. Stimmverzerrer/Voice Changer egal, ob durch ein TeamSpeak3 Plugin oder ein externes Programm sind auf dem gesamten TeamSpeak3 nicht erlaubt.
+  - Absatz 3.6. Stimmverzerrer/Voice-Changer egal, ob durch ein TeamSpeak3 Plugin oder ein externes Programm, sind auf dem gesamten TeamSpeak3 Server nur in privaten (passwortgeschütztem) Channel erlaubt.
 
 - Absatz 4. Obszöne Geräusche oder Rauschen ist zu unterlassen. Störende Geräusche wie z.B. das Essen oder die Atmung sind zu vermeiden. Gespräche, welche im Hintergrund geführt werden und nicht an alle Mitglieder eines Channels gerichtet sind, sind keine Gespräche für den TeamSpeak3. In diesen Fällen bitten wir, sich zu muten (stumm zuschalten) oder den TeamSpeak zu verlassen.
 
@@ -135,18 +135,19 @@
     - LabyMod
     - OptiFine
     - MorePlayerModels
+    - BadlionClient
     - Ressource Packs (außer wenn als X-Ray Tool agierend)
-  - Absatz 2.2. Jegliche nicht genannten Modifikationen (auch zusätzliche Tools wie Damage Indicator) sind nicht erlaubt.
+  - Absatz 2.2. Jegliche nicht genannten Modifikationen (auch zusätzliche Tools wie Damage Indicator) und welche einen unfairen Spielvorteil anderen Spielern gegenüber verschaffen, sind nicht erlaubt.
 
 - Absatz 3. Das Ausnutzen von Spiel- und Programmierfehlern ist nicht erlaubt. Diese Fehler sind sofort im Forum zu melden! Ebenso wenig ist es erwünscht den Server mit diversen Techniken zum Laggen zu bringen. Servermanipulation ist und bleibt immer verboten.
 
-- Absatz 4. Das Missbrauchen und Spammen mit Befehlen wie z.B. /report ist untersagt und wird im Extremfall mit einem Spiel-Ausschluss bestraft.
+- Absatz 4. Das Missbrauchen und Spammen von Befehlen ist untersagt und wird im Extremfall mit einem Chat-Ausschluss bestraft.
 
 - Absatz 5. Keine der Exklusiv für diesen Server gebauten Karten darf ohne ausdrückliche und schriftliche Erlaubnis der Serverleitung auswärts genutzt werden.
 
 - Absatz 6. Das Betrügen ("Scammen") anderer Spieler um Items, Ingame-Währung etc. ist untersagt. Der Betrugsversuch wird bestraft.
 
-- Absatz 7. Das Griefen von Grundstücken o.Ä. ist nicht erlaubt.
+- Absatz 7. Das Griefen von Grundstücken o.Ä. ist nicht erlaubt und wird bestraft.
 
 - Absatz 8. Jegliche Arten von Fallen wie z.B. TPA-Fallen sind verboten.
 
@@ -162,7 +163,7 @@
 
   - Absatz 10.4. Das Spammen mit Farb-Codes (&0-&9, &a-&f) ist zu unterlassen.
 
-  - Absatz 10.5. Werbung für Minecraft- oder TeamSpeak-Server, YouTube-Kanäle u.Ä. ist nicht erwünscht.
+  - Absatz 10.5. Werbung für Minecraft- oder TeamSpeak-Server, YouTube- oder Kanäle u.Ä. ist nicht erwünscht.
 
   - Absatz 10.6. Das Betteln nach Ingamerechten, Rängen oder Ingame-Geld ("Spenden") ist nicht gestattet. Jeder Spieler hat die Möglichkeit auf dem Server einem Job (/jobs) nachzugehen und sich so sein Ingame-Geld zu verdienen.
 

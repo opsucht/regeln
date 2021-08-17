@@ -85,17 +85,15 @@
 
 - Absatz 3. Ränge wie "Premium" sind nur bei der Administratoren, den Inhabern oder im offiziellen Shop erhältlich. Bitte fallt nicht auf andere Shops, Verkäufer Via TeamSpeak, Skype und Co. rein! Das Vortäuschen eines Rangkaufs ist eine Straftat welche nach § 263 StGB unter Betrug fällt und schwer bestraft wird und zur Strafanzeige gebracht werden kann.
 
-# § 3 Besondere Regelungen für TeamSpeak
+# § 3 Besondere Regelungen für TeamSpeak & Discord
 
 - Absatz 1. Avatare & Namen
 
-  - Absatz 1.1. Das Nutzen von Klammern wie () [] {} ist nicht erlaubt. Genauso ist das Nutzen von jeglichen Sonderzeichen mit der Ausnahme von | und @ nicht erlaubt.
+  - Absatz 1.1. Avatare dürfen keine beleidigenden, sexuelle, rassistische oder diskriminierenden Inhalte haben.
 
-  - Absatz 1.2. Avatare dürfen keine beleidigenden, sexuelle, rassistische oder diskriminierenden Inhalte haben.
+  - Absatz 1.2. Drogen verherrlichende Avatare sind ebenfalls nicht gestattet.
 
-  - Absatz 1.3. Drogen verherrlichende Avatare sind ebenfalls nicht gestattet.
-
-  - Absatz 1.4. Avatare, welche epileptische Anfälle hervorrufen können sind zum Schutz ebenfalls nicht erlaubt.
+  - Absatz 1.3. Avatare, welche epileptische Anfälle hervorrufen können sind zum Schutz ebenfalls nicht erlaubt.
 
 - Absatz 2. Das beabsichtigte Stören von Gesprächen wird sanktioniert.
 
@@ -151,7 +149,7 @@
 
 - Absatz 8. Jegliche Arten von Fallen wie z.B. TPA-Fallen sind verboten.
 
-- Absatz 9. Das Nutzen mehrerer Accounts ist nicht erlaubt.
+- Absatz 9. Das Nutzen mehrerer Accounts ist nicht erlaubt und wird bestraft.
 
 - Absatz 10. Chatverhalten
 
@@ -163,10 +161,10 @@
 
   - Absatz 10.4. Das Spammen mit Farb-Codes (&0-&9, &a-&f) ist zu unterlassen.
 
-  - Absatz 10.5. Werbung für Minecraft- oder TeamSpeak-Server, YouTube- oder Kanäle u.Ä. ist nicht erwünscht.
+  - Absatz 10.5. Werbung für Minecraft- oder TeamSpeak-Server, YouTube-Kanäle u.Ä. ist nicht erwünscht.
 
-  - Absatz 10.6. Das Betteln nach Ingamerechten, Rängen oder Ingame-Geld ("Spenden") ist nicht gestattet. Jeder Spieler hat die Möglichkeit auf dem Server einem Job (/jobs) nachzugehen und sich so sein Ingame-Geld zu verdienen.
+  - Absatz 10.6. Das Betteln nach Ingamerechten, Rängen, Items, oder Ingame-Geld ("Spenden") ist nicht gestattet. Jeder Spieler hat die Möglichkeit auf dem Server einem Job (/jobs) nachzugehen und sich so sein Ingame-Geld zu verdienen.
 
-- Absatz 11. Handel
+- Absatz 11. Handel & Versteigerungen
 
-  - Absatz 11.1. Shops auf Grundstücken sind erlaubt
+  - Absatz 11.1. Das Abbrechen einer Versteigerung mit Geboten ist nicht erlaubt und fällt unter § 4 Absatz 6.

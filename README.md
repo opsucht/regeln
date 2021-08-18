@@ -61,7 +61,7 @@
 - Absatz 7. Drohungen, egal ob sie an ein Teammitglied oder einen User gerichtet sind, werden schwer bestraft.
 
 
-- Absatz 8. Jegliche Art von Werbung zum eigenen Zweck ist verboten. Eine Absprache im Sinne von § 1.3 Absatz 4.5 ist in diesem Fall möglich.
+- Absatz 8. Jegliche Art von Werbung zum eigenen Zweck ist verboten. Eine Absprache im Sinne von § 1.3 Absatz 5.5 ist in diesem Fall möglich.
 
 
 - Absatz 9. Private Daten egal welcher Art dürfen nicht öffentlich ausgetauscht werden. Ein Teammitglied von OPSUCHT.NET wird dich niemals nach vertraulichen Daten wie Passwörtern fragen!
@@ -74,7 +74,7 @@
 
 - Absatz 13. Das Hetzen gegen Teammitglieder oder gegen den Server wird schwer bestraft.
 
-- Absatz 14. Jeder Nutzer ist für seinen eigenen Account verantwortlich und hat dafür zu sorgen ein sicheres Passwort zu wählen.
+- Absatz 14. Jeder Nutzer ist für seinen eigenen Account verantwortlich und hat dafür zu sorgen ein sicheres Passwort zu wählen. Wir haften nicht für Verluste.
 
 
 # § 2 Rechte
@@ -99,7 +99,7 @@
 
 - Absatz 3. Musikbots und Plugins/Scripte
 
-  - Absatz 3.1. Musikbots sowie Soundboards sind nur in privaten, Passwort- geschützten Channeln erlaubt.
+  - Absatz 3.1. Musikbots sowie Soundboards oder Stimmverzerrer/Voice-Changer sind nur in privaten, Passwort- geschützten Channeln erlaubt.
 
   - Absatz 3.2. Bots dürfen nicht als Platzhalter genutzt werden, um einen Channel "am Leben" zu halten.
 
@@ -108,8 +108,6 @@
   - Absatz 3.4. Jegliche Plugins und Scripte welche auf Serverebene agieren, sind nicht gestattet mit Ausnahme von z.B. RP Soundboard, welches aber nur nach § 3 Absatz 3.1. verwendet werden darf.
 
   - Absatz 3.5. Plugins wie z.B. das "Love-Plugin" sind nicht erlaubt. Darunter gelten auch Plugins, die die IP verbergen etc.
-
-  - Absatz 3.6. Stimmverzerrer/Voice-Changer egal, ob durch ein TeamSpeak3 Plugin oder ein externes Programm, sind auf dem gesamten TeamSpeak3 Server nur in privaten (passwortgeschütztem) Channel erlaubt.
 
 - Absatz 4. Obszöne Geräusche oder Rauschen ist zu unterlassen. Störende Geräusche wie z.B. das Essen oder die Atmung sind zu vermeiden. Gespräche, welche im Hintergrund geführt werden und nicht an alle Mitglieder eines Channels gerichtet sind, sind keine Gespräche für den TeamSpeak3. In diesen Fällen bitten wir, sich zu muten (stumm zuschalten) oder den TeamSpeak zu verlassen.
 
@@ -123,7 +121,7 @@
 
 # § 4 Besondere Regelungen für Minecraft
 
-- Absatz 1. Sollte es vorkommen, dass bei einer Namensänderung Grundstücke und Inventare verloren gehen werden diese nicht rückerstattet.
+- Absatz 1. Bei Verlust von Items, Ingame-Währung etc. wird keine Erstattung geleistet, sofern der Grund des Verlustes kein, von der Leitung bestätiges, Serverproblem ist.
 
 - Absatz 2. Modifikationen
   - Absatz 2.1. Erlaubte Modifikationen
@@ -135,15 +133,15 @@
     - MorePlayerModels
     - BadlionClient
     - Ressource Packs (außer wenn als X-Ray Tool agierend)
-  - Absatz 2.2. Jegliche nicht genannten Modifikationen (auch zusätzliche Tools wie Damage Indicator) und welche einen unfairen Spielvorteil anderen Spielern gegenüber verschaffen, sind nicht erlaubt.
+  - Absatz 2.2. Jegliche nicht genannten Modifikationen (auch zusätzliche Tools wie Damage Indicator) welche einen unfairen Spielvorteil anderen Spielern gegenüber verschaffen, sind nicht erlaubt.
 
-- Absatz 3. Das Ausnutzen von Spiel- und Programmierfehlern ist nicht erlaubt. Diese Fehler sind sofort im Forum zu melden! Ebenso wenig ist es erwünscht den Server mit diversen Techniken zum Laggen zu bringen. Servermanipulation ist und bleibt immer verboten.
+- Absatz 3. Das Ausnutzen von Spiel- und Programmierfehlern ist nicht erlaubt und wird bestraft. Diese Fehler sind sofort im Forum oder im Support zu melden! Ebenso wenig ist es erwünscht den Server mit diversen Techniken zum Laggen zu bringen. Servermanipulation ist und bleibt immer verboten.
 
 - Absatz 4. Das Missbrauchen und Spammen von Befehlen ist untersagt und wird im Extremfall mit einem Chat-Ausschluss bestraft.
 
 - Absatz 5. Keine der Exklusiv für diesen Server gebauten Karten darf ohne ausdrückliche und schriftliche Erlaubnis der Serverleitung auswärts genutzt werden.
 
-- Absatz 6. Das Betrügen ("Scammen") anderer Spieler um Items, Ingame-Währung etc. ist untersagt. Der Betrugsversuch wird bestraft.
+- Absatz 6. Das Betrügen ("Scammen") anderer Spieler um Items, Ingame-Währung etc. ist untersagt. Der Betrugsversuch wird bestraft. Es wird keine Erstattung geleistet! Siehe § 4 Absatz 1.
 
 - Absatz 7. Das Griefen von Grundstücken o.Ä. ist nicht erlaubt und wird bestraft.
 
@@ -161,10 +159,14 @@
 
   - Absatz 10.4. Das Spammen mit Farb-Codes (&0-&9, &a-&f) ist zu unterlassen.
 
-  - Absatz 10.5. Werbung für Minecraft- oder TeamSpeak-Server, YouTube-Kanäle u.Ä. ist nicht erwünscht.
+  - Absatz 10.5. Das Abwerben von Spielern für andere Minecraft- oder TeamSpeak-Server ist nicht erwünscht und wird bestraft.
 
-  - Absatz 10.6. Das Betteln nach Ingamerechten, Rängen, Items, oder Ingame-Geld ("Spenden") ist nicht gestattet. Jeder Spieler hat die Möglichkeit auf dem Server einem Job (/jobs) nachzugehen und sich so sein Ingame-Geld zu verdienen.
+  - Absatz 10.6. Das Betteln nach Ingamerechten, Banns/Mutes, Rängen, Items, oder Ingame-Geld ist nicht gestattet. Jeder Spieler hat die Möglichkeit auf dem Server einem Job (/jobs) nachzugehen und sich so sein Ingame-Geld zu verdienen.
 
 - Absatz 11. Handel & Versteigerungen
 
   - Absatz 11.1. Das Abbrechen einer Versteigerung mit Geboten ist nicht erlaubt und fällt unter § 4 Absatz 6.
+ 
+  - Absatz 11.2. Das Zurückziehen eines Gebotes einer laufenden Versteigerung ist nicht erlaubt und fällt ebenfalls unter § 4 Absatz 6.
+  
+  - Absatz 11.3. Fake-Gebote sind zu unterlassen, biete nur Geld, welches du auch besitzt.

@@ -35,7 +35,7 @@
 
   - Absatz 2.2. Jegliches menschenfeindliche, rassistische, sexistische, nationalsozialistische oder andere, nach deutschem Recht unzulässiges Verhalten ist verboten.
 
-- Absatz 3. Private Missverständnisse und Streitigkeiten sind ebenfalls privat zu behandeln und sollen nicht auf unserem Netzwerk ausgetraten werden.
+- Absatz 3. Private Missverständnisse und Streitigkeiten sind ebenfalls privat zu behandeln und sollen nicht auf unserem Netzwerk ausgetragen werden.
 
 - Absatz 4. Hatespeech ist auf diesem Server absolut verboten und wird mit einem permanenten Serverausschluss geahndet. Wer den Server nicht gut findet, der möge seine Äußerungen zum Wohle aller anderen Spieler für sich behalten und den Frieden im Spiel auf dem Server sowie allen weiteren Plattformen nicht stören.
 
@@ -99,7 +99,7 @@
 
 - Absatz 3. Musikbots und Plugins/Scripte
 
-  - Absatz 3.1. Musikbots sowie Soundboards oder Stimmverzerrer/Voice-Changer sind nur in privaten, Passwort- geschützten Channeln erlaubt.
+  - Absatz 3.1. Musikbots sowie Soundboards oder Stimmverzerrer/Voice-Changer sind nur in privaten, Passwort- geschützten Channel erlaubt.
 
   - Absatz 3.2. Bots dürfen nicht als Platzhalter genutzt werden, um einen Channel "am Leben" zu halten.
 

@@ -33,7 +33,7 @@
 
   - Absatz 2.1. Auf dem gesamten Netzwerk gilt eine allgemeine Netiquette. Wer andere beleidigt, ob direkt oder subtil, muss mit einem Ausschluss vom Netzwerk-Bereich rechnen.
 
-  - Absatz 2.2. Jegliches menschenfeindliche, rassistische, sexistische, nationalsozialistische oder andere, nach deutschem Recht unzulässiges Verhalten ist verboten.
+  - Absatz 2.2. Jegliches menschenfeindliche, rassistische, sexistische, nationalsozialistische oder andere nach deutschem Recht unzulässiges Verhalten ist verboten.
 
 - Absatz 3. Missverständnisse und Streitigkeiten unter Spielern sind privat zu behandeln und sollen nicht auf unserem Netzwerk ausgetragen werden.
 

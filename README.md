@@ -121,7 +121,7 @@
 
 # § 4 Besondere Regelungen für Minecraft
 
-- Absatz 1. Bei Verlust von Items, Ingame-Währung etc. wird keine Erstattung geleistet, sofern der Grund des Verlustes kein, von der Leitung bestätiges, Serverproblem ist.
+- Absatz 1. Bei Verlust von Items, Ingame-Währung etc. wird generell keine Erstattung geleistet, ausnahmen sind der Serverleitung vorbehalten.
 
 - Absatz 2. Modifikationen
   - Absatz 2.1. Erlaubte Modifikationen

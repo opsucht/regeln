@@ -66,7 +66,7 @@
 
 - Absatz 9. Private Daten egal welcher Art dürfen nicht öffentlich ausgetauscht werden. Ein Teammitglied von OPSUCHT.NET wird dich niemals nach vertraulichen Daten wie Passwörtern fragen!
 
-- Absatz 10. Jegliche Art von Handel mit Echtgeld ist verboten! Ränge sind nur im Sinne von §2 Absatz 3. erhältlich.
+- Absatz 10. Jegliche Art von Handel mit Echtgeld ist verboten! Ränge sind nur im Sinne von § 2 Absatz 3. erhältlich.
 
 - Absatz 11. Jegliche Angriffe gegen dieses Netzwerk werden zur Strafanzeige gebracht. Hierbei ist es egal, ob es sich um Flooding, eine DOS-Attacke oder Ähnliches handelt.
 
@@ -89,11 +89,15 @@
 
 - Absatz 1. Avatare & Namen
 
-  - Absatz 1.1. Avatare dürfen keine beleidigenden, sexuelle, rassistische oder diskriminierenden Inhalte haben.
+  - Absatz 1.1. Das Nutzen von Klammern im Namen wie () [] {} um den Besitz eines Ranges vorzutäuschen, ist verboten und wird im Extremfall mit einem Ausschluss bestraft.
 
-  - Absatz 1.2. Drogen verherrlichende Avatare sind ebenfalls nicht gestattet.
+  - Absatz 1.2. Das Verwenden von Sonderzeichen in Namen ist gestattet, sofern diese nicht gegen § 1.3 Absatz 1.3 und § 1.3 Absatz 2.2 verstoßen.
 
-  - Absatz 1.3. Avatare, welche epileptische Anfälle hervorrufen können sind zum Schutz ebenfalls nicht erlaubt.
+  - Absatz 1.3. Avatare dürfen keine beleidigenden, sexuelle, rassistische oder diskriminierenden Inhalte haben.
+
+  - Absatz 1.4. Drogen verherrlichende Avatare sind ebenfalls nicht gestattet.
+
+  - Absatz 1.5. Avatare, welche epileptische Anfälle hervorrufen können sind zum Schutz ebenfalls nicht erlaubt.
 
 - Absatz 2. Das beabsichtigte Stören von Gesprächen wird sanktioniert.
 

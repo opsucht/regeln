@@ -147,7 +147,7 @@
 
 - Absatz 8. Jegliche Arten von Fallen wie z.B. TPA-Fallen sind verboten.
 
-- Absatz 9. Das Nutzen mehrerer Accounts ist nicht erlaubt und wird bestraft.
+- Absatz 9. Das Nutzen mehrerer Accounts, ohne ausdrücklicher Erlaubnis der Serverleitung ist nicht erlaubt und wird bestraft.
 
 - Absatz 10. Chatverhalten
 

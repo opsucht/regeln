@@ -99,7 +99,7 @@
 
 - Absatz 3. Musikbots und Plugins/Scripte
 
-  - Absatz 3.1. Musikbots sowie Soundboards oder Stimmverzerrer/Voice-Changer sind nur in privaten, Passwort- geschützten Channel erlaubt.
+  - Absatz 3.1. Musikbots sowie Soundboards oder Stimmverzerrer/Voice-Changer sind nur in privaten, Passwort- geschützten Channeln erlaubt.
 
   - Absatz 3.2. Bots dürfen nicht als Platzhalter genutzt werden, um einen Channel "am Leben" zu halten.
 

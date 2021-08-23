@@ -73,6 +73,8 @@
 
 - Absatz 14. Jeder Nutzer ist für seinen eigenen Account verantwortlich und hat dafür zu sorgen, ein sicheres Passwort zu wählen. Wir haften nicht für Verluste.
 
+- Absatz 15. Die Umgehung eines Chat- oder Serverausschlusses (Mutes und Banns) ist verboten und wird mit einem permanenten Serverausschluss bestraft.
+
 
 # § 2 Rechte
 

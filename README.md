@@ -33,7 +33,7 @@
 
   - Absatz 2.1. Auf dem gesamten Netzwerk gilt eine allgemeine Netiquette. Wer andere beleidigt, ob direkt oder subtil, muss mit einem Ausschluss vom Netzwerk-Bereich rechnen.
 
-  - Absatz 2.2. Jegliches menschenfeindliche, rassistische, sexistische, nationalsozialistische oder andere nach deutschem Recht unzulässiges Verhalten ist verboten.
+  - Absatz 2.2. Jegliches menschenfeindliche, rassistische, sexuelle, sexistische, nicht Jugend förderliches, nationalsozialistische oder andere nach deutschem Recht unzulässiges Verhalten ist verboten.
 
 - Absatz 3. Missverständnisse und Streitigkeiten unter Spielern sind privat zu behandeln und sollen nicht auf unserem Netzwerk ausgetragen werden.
 
@@ -148,28 +148,30 @@
 
 - Absatz 7. Das Griefen von Grundstücken o.Ä. ist nicht erlaubt und wird bestraft.
 
-- Absatz 8. Jegliche Arten von Fallen wie z.B. TPA-Fallen sind verboten.
+- Absatz 8. Bauwerke, welche mit § 1.3 Absatz 2.2 nicht vereinbar sind, sind untersagt und werden bestraft.
 
-- Absatz 9. Das Nutzen mehrerer Accounts ohne ausdrücklicher Erlaubnis der Serverleitung ist nicht erlaubt und wird bestraft.
+- Absatz 9. Jegliche Arten von Fallen wie z.B. TPA-Fallen sind verboten.
 
-- Absatz 10. Chatverhalten
+- Absatz 10. Das Nutzen mehrerer Accounts ohne ausdrücklicher Erlaubnis der Serverleitung ist nicht erlaubt und wird bestraft.
 
-  - Absatz 10.1. Der Chat dient zur allgemeinen Kommunikation und nicht zum Erregen von Ärgernissen.
+- Absatz 11. Chatverhalten
 
-  - Absatz 10.2. Das Spammen der gleichen Nachricht ist zu unterlassen.
+  - Absatz 11.1. Der Chat dient zur allgemeinen Kommunikation und nicht zum Erregen von Ärgernissen.
 
-  - Absatz 10.3. Das Schreiben mit CAPSLOCK ist zu unterlassen.
+  - Absatz 11.2. Das Spammen von Zeichen oder der gleichen Nachricht ist zu unterlassen.
 
-  - Absatz 10.4. Das Spammen mit Farb-Codes (&0-&9, &a-&f) ist zu unterlassen.
+  - Absatz 11.3. Das Schreiben mit CAPSLOCK ist zu unterlassen.
 
-  - Absatz 10.5. Das Abwerben von Spielern für andere Minecraft-, Discord- oder TeamSpeak-Server ist nicht erwünscht und wird bestraft.
+  - Absatz 11.4. Das Spammen mit Farb-Codes (&0-&9, &a-&f) ist zu unterlassen.
 
-  - Absatz 10.6. Das Betteln nach Ingamerechten, Banns/Mutes, Rängen, Items, oder Ingame-Geld ist nicht gestattet. Jeder Spieler hat die Möglichkeit, auf dem Server einem Job (/jobs) nachzugehen und sich so sein Ingame-Geld zu verdienen.
+  - Absatz 11.5. Das Abwerben von Spielern für andere Minecraft-, Discord- oder TeamSpeak-Server ist nicht erwünscht und wird bestraft.
 
-- Absatz 11. Handel & Versteigerungen
+  - Absatz 11.6. Das Betteln nach Ingamerechten, Banns/Mutes, Rängen, Items, oder Ingame-Geld ist nicht gestattet. Jeder Spieler hat die Möglichkeit, auf dem Server einem Job (/jobs) nachzugehen und sich so sein Ingame-Geld zu verdienen.
 
-  - Absatz 11.1. Das Abbrechen einer Versteigerung mit Geboten ist nicht erlaubt und fällt unter § 4 Absatz 6.
+- Absatz 12. Handel & Versteigerungen
+
+  - Absatz 12.1. Das Abbrechen einer Versteigerung mit Geboten ist nicht erlaubt und fällt unter § 4 Absatz 6.
  
-  - Absatz 11.2. Das Zurückziehen eines Gebotes einer laufenden Versteigerung ist nicht erlaubt und fällt ebenfalls unter § 4 Absatz 6.
+  - Absatz 12.2. Das Zurückziehen eines Gebotes einer laufenden Versteigerung ist nicht erlaubt und fällt ebenfalls unter § 4 Absatz 6.
   
-  - Absatz 11.3. Fake-Gebote sind zu unterlassen. Biete nur Geld, welches du auch besitzt.
+  - Absatz 12.3. Fake-Gebote sind zu unterlassen. Biete nur Geld, welches du auch besitzt.

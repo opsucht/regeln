@@ -55,7 +55,7 @@
 
   - Absatz 5.7. Jedes Teammitglied des OPSUCHT.NET Netzwerkes ist befugt jederzeit von seinen Rechten Gebrauch zu machen und User mit diesen zu kontrollieren.
 
-- Absatz 6. VPNs, Proxys oder ähnliche Methoden zur Identitätsverschleierung sind verboten. Es sei denn, es wurde vorher eine Absprache im Sinne von § 1.3 Absatz 4.5 getroffen.
+- Absatz 6. VPNs, Proxys oder ähnliche Methoden zur Identitätsverschleierung sind verboten. Es sei denn, es wurde vorher eine Absprache im Sinne von § 1.3 Absatz 5.5 getroffen.
 
 - Absatz 7. Drohungen, egal ob sie an ein Teammitglied oder einen User gerichtet sind, werden schwer bestraft.
 

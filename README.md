@@ -14,7 +14,7 @@
 
 - Absatz 2. Die Administration von OPSUCHT.NET behält sich das Recht vor, das Regelwerk bzw. die Nutzungsbedingungen zu jedem Zeitpunkt zu ändern und anzupassen. Diese Änderungen sind ab dem Punkt der Änderung für alle Nutzer gültig.
 
-- Absatz 3. Mit dem aktiven Nutzen des Netzwerkes akzeptierst du automatisch dieses Regelwerk.
+- Absatz 3. Mit dem Nutzen des Netzwerkes akzeptierst du automatisch dieses Regelwerk.
 
 
 ## § 1.3 Grundsätze

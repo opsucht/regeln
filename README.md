@@ -2,7 +2,7 @@
 
 ## § 1.1 Begriffsdefinitionen
 
-- Absatz 1. "Netzwerk" ist die gesamte Serverinfrastruktur von OPSUCHT.NET. Dazu gehört das Minecraft-Netzwerk, der TeamSpeak3-Server, der Discord-Server und das Forum.
+- Absatz 1. "Netzwerk" ist die gesamte Serverinfrastruktur von OPSUCHT.NET. Dazu gehört das Minecraft-Netzwerk, der TeamSpeak3-Server und der Discord-Server.
 
 - Absatz 1.1. "Wir" ist das derzeitige Team.
 

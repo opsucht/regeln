@@ -53,9 +53,9 @@
 
   - Absatz 5.6. Niemand wird einfach vom Netzwerk gekickt oder gebannt. Jedes Teammitglied hat die Berechtigung, Nutzer vom Netzwerk zu kicken oder zu bannen, wenn sie darin eine Notwendigkeit sehen.
 
-  - Absatz 5.7. Jedes Teammitglied des OPSUCHT.NET Netzwerkes ist befugt jederzeit von seinen Rechten Gebrauch zu machen und User mit diesen zu kontrollieren.
+  - Absatz 5.7. Jedes Teammitglied des OPSUCHT.NET Netzwerkes ist befugt jederzeit von seinen Rechten gebrauch zu machen und User mit diesen zu kontrollieren.
 
-- Absatz 6. VPNs, Proxys oder ähnliche Methoden zur Identitätsverschleierung sind verboten. Es sei denn, es wurde vorher eine Absprache im Sinne von § 1.3 Absatz 4.5 getroffen.
+- Absatz 6. VPNs, Proxys oder ähnliche Methoden zur Identitätsverschleierung sind verboten. Es sei denn, es wurde vorher eine Absprache im Sinne von § 1.3 Absatz 5.5 getroffen.
 
 - Absatz 7. Drohungen, egal ob sie an ein Teammitglied oder einen User gerichtet sind, werden schwer bestraft.
 
@@ -75,6 +75,11 @@
 
 - Absatz 15. Die Umgehung eines Chat- oder Serverausschlusses (Mutes und Banns) ist verboten und wird mit einem permanenten Serverausschluss bestraft.
 
+- Absatz 16. Allgemeine Chatregeln
+
+  - Absatz 16.1 Jegliche ingamebezogene Werbung auf OPSUCHT.NET, wird netzwerkweit ausschließlich in einem 15 Minuten Abstand gestattet, auch Userunabhängig. Reaktionen auf Chatanfragen gelten hier nicht als Werbung.
+
+  - Absatz 16.2 Das Senden von "Konterwerbung" ist zu unterlassen und kann sanktioniert werden.
 
 # § 2 Rechte
 
@@ -82,7 +87,7 @@
 
 - Absatz 2. Niemand wird einfach in das OPSUCHT.NET Team aufgenommen, weil er es sich so gerne wünscht. Jedes Teammitglied wird von der Teamleitung ausgewählt und durchläuft den vorgeschriebenen Bewerbungsprozess. In Ausnahmefällen werden auch positiv aufgefallene Nutzer außerhalb der Bewerbungsphasen in das Team aufgenommen.
 
-- Absatz 3. Ränge wie "Premium" sind nur bei der Administratoren, den Inhabern oder im offiziellen Shop erhältlich. Bitte fallt nicht auf andere Shops, Verkäufer Via TeamSpeak, Skype und Co. rein! Das Vortäuschen eines Rangkaufs ist eine Straftat welche nach § 263 StGB unter Betrug fällt und schwer bestraft wird und zur Strafanzeige gebracht werden kann.
+- Absatz 3. Ränge wie "Premium" sind nur bei der Administratoren, den Inhabern oder im offiziellen Shop erhältlich. Bitte fallt nicht auf andere Shops, Verkäufer via TeamSpeak, Skype und Co. rein! Das Vortäuschen eines Rangkaufs ist eine Straftat welche nach § 263 StGB unter Betrug fällt und schwer bestraft wird und zur Strafanzeige gebracht werden kann.
 
 # § 3 Besondere Regelungen für TeamSpeak & Discord
 
@@ -112,7 +117,7 @@
 
   - Absatz 3.5. Plugins, wie z.B. das "Love-Plugin" sind nicht erlaubt. Darunter gelten auch Plugins, die die IP verbergen etc.
 
-- Absatz 4. Obszöne Geräusche oder Rauschen ist zu unterlassen. Störende Geräusche, wie z.B. ins Mikrofon atmen oder lautes Kauen, sind zu vermeiden. Gespräche, welche im Hintergrund geführt werden und nicht an alle Mitglieder eines Channels gerichtet sind, sind keine Gespräche für den TeamSpeak oder Discord. In diesen Fällen bitten wir, sich zu muten (stumm zuschalten) oder den Channel zu verlassen.
+- Absatz 4. Obszöne Geräusche oder Rauschen ist zu unterlassen. Störende Geräusche, wie z.B. ins Mikrofon atmen oder lautes Kauen, sind zu vermeiden. Gespräche, welche im Hintergrund geführt werden und nicht an alle Mitglieder eines Channels gerichtet sind, sind keine Gespräche für den TeamSpeak oder Discord. In diesen Fällen bitten wir darum, sich zu muten (stumm zuschalten) oder den Channel zu verlassen.
 
 - Absatz 5. Channel-Hopping ist verboten. Wer grundlos durch Channel switcht und damit das Stören der anderen in Kauf nimmt, wird im Extremfall mit einem Ausschluss bestraft.
 
@@ -138,7 +143,7 @@
     - Ressource Packs (außer wenn als X-Ray Tool agierend)
   - Absatz 2.2. Jegliche nicht genannten Modifikationen (auch zusätzliche Tools wie Damage Indicator), welche einen unfairen Spielvorteil anderen Spielern gegenüber verschaffen, sind nicht erlaubt.
 
-- Absatz 3. Das Ausnutzen von Spiel- und Programmierfehlern ist nicht erlaubt und wird bestraft. Diese Fehler sind sofort im Forum oder im Support zu melden! Ebenso wenig ist es erwünscht den Server mit diversen Techniken zum Laggen zu bringen. Servermanipulation ist und bleibt immer verboten.
+- Absatz 3. Das Ausnutzen von Spiel- und Programmierfehlern ist nicht erlaubt und wird bestraft. Diese Fehler sind sofort im Support zu melden! Ebenso wenig ist es erwünscht den Server mit diversen Techniken zum Laggen zu bringen. Servermanipulation ist und bleibt immer verboten.
 
 - Absatz 4. Das Missbrauchen und Spammen von Befehlen ist untersagt und wird im Extremfall mit einem Chat-Ausschluss bestraft.
 
@@ -154,7 +159,7 @@
 
 - Absatz 10. Chatverhalten
 
-  - Absatz 10.1. Der Chat dient zur allgemeinen Kommunikation und nicht zum Erregen von Ärgernissen.
+  - Absatz 10.1. Der Chat dient zur allgemeinen Kommunikation und nicht zum erregen von Ärgernissen.
 
   - Absatz 10.2. Das Spammen der gleichen Nachricht ist zu unterlassen.
 

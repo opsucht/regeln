@@ -152,7 +152,7 @@
 
 - Absatz 9. Das Nutzen mehrerer Accounts ohne ausdrücklicher Erlaubnis der Serverleitung ist nicht erlaubt und wird bestraft.
 
-- Absatz 9.1.Absatz 9.1. Das Nutzen von einem Java & Bedrock ist gestattet, jedoch dürfen sie nicht gleichzeitig online sein, dies fällt dann unter § 4 Absatz 9.
+- Absatz 9.1. Das Nutzen von einem Java & Bedrock ist gestattet, jedoch dürfen sie nicht gleichzeitig online sein, dies fällt dann unter § 4 Absatz 9.
 
 - Absatz 10. Chatverhalten
 

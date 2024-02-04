@@ -2,7 +2,7 @@
 
 ## § 1.1 Begriffsdefinitionen
 
-- Absatz 1. "Netzwerk" ist die gesamte Serverinfrastruktur von OPSUCHT.NET. Dazu gehört das Minecraft-Netzwerk, der TeamSpeak3-Server, der Discord-Server und das Forum.
+- Absatz 1. "Netzwerk" ist die gesamte Serverinfrastruktur von OPSUCHT.NET. Dazu gehört das Minecraft-Netzwerk, der TeamSpeak3-Server und der Discord-Server.
 
 - Absatz 1.1. "Wir" ist das derzeitige Team.
 
@@ -41,7 +41,7 @@
 
 - Absatz 5. Vorbehalte der Teammitglieder
 
-  - Absatz 5.1. Jedes Teammitglied von OPSUCHT.NET hat volles Weisungsrecht. Wer sich Anweisungen von Teammitgliedern widersetzt, muss mit einem temporären Ausschluss vom Netzwerk-Bereich rechnen.
+  - Absatz 5.1. Jedes Teammitglied von OPSUCHT.NET hat volles Weisungsrecht. Wer sich Anweisungen von Teammitgliedern widersetzt, muss mit einem temporären Ausschluss vom Netzwerk rechnen.
 
   - Absatz 5.2. Jedes Teammitglied hat das Recht im Verdachtsfall eines Regelbruches Sanktionen auszuüben.
 
@@ -102,11 +102,11 @@
 
 - Absatz 3. Musikbots und Plugins/Scripte
 
-  - Absatz 3.1. Musikbots sowie Soundboards oder Stimmverzerrer/Voice-Changer sind nur in privaten, passwortgeschützten Channels erlaubt.
+  - Absatz 3.1. Musikbots sowie Soundboards oder Stimmverzerrer/Voice-Changer sind nur in privaten, passwortgeschützten Channels erlaubt. (Wenn alle in dem Channel einverstanden sind)
 
   - Absatz 3.2. Bots dürfen nicht als Platzhalter genutzt werden, um einen Channel "am Leben" zu halten.
 
-  - Absatz 3.3. Jegliche Plugins, welche das Design vom Client verändern, sind gestattet.
+  - Absatz 3.3. Jegliche Plugins, welche das Design vom Client verändern, sind erlaubt.
 
   - Absatz 3.4. Jegliche Plugins und Scripte, welche auf Serverebene agieren, sind nicht gestattet (mit Ausnahme von z.B. RP Soundboard, welches aber nur nach § 3 Absatz 3.1. verwendet werden darf).
 
@@ -151,6 +151,8 @@
 - Absatz 8. Jegliche Arten von Fallen wie z.B. TPA-Fallen sind verboten.
 
 - Absatz 9. Das Nutzen mehrerer Accounts ohne ausdrücklicher Erlaubnis der Serverleitung ist nicht erlaubt und wird bestraft.
+
+- Absatz 9.1.Absatz 9.1. Das Nutzen von einem Java & Bedrock ist gestattet, jedoch dürfen sie nicht gleichzeitig online sein, dies fällt dann unter § 4 Absatz 9.
 
 - Absatz 10. Chatverhalten
 

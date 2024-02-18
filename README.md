@@ -158,13 +158,15 @@
 
   - Absatz 10.2. Das Spammen der gleichen Nachricht ist zu unterlassen.
 
-  - Absatz 10.3. Das Schreiben mit CAPSLOCK ist zu unterlassen.
+  - Absatz 10.3. Werbung darf nur alle 15 Minuten gesendet werden, um eine angemessene und nicht störende Kommunikation sicherzustellen.
 
-  - Absatz 10.4. Das Spammen mit Farb-Codes (&0-&9, &a-&f) ist zu unterlassen.
+  - Absatz 10.4. Das Schreiben mit CAPSLOCK ist zu unterlassen.
 
-  - Absatz 10.5. Das Abwerben von Spielern für andere Minecraft-, Discord- oder TeamSpeak-Server ist nicht erwünscht und wird bestraft.
+  - Absatz 10.5. Das Spammen mit Farb-Codes (&0-&9, &a-&f) ist zu unterlassen.
 
-  - Absatz 10.6. Das Betteln nach Ingamerechten, Banns/Mutes, Rängen, Items, oder Ingame-Geld ist nicht gestattet. Jeder Spieler hat die Möglichkeit, auf dem Server einem Job (/jobs) nachzugehen und sich so sein Ingame-Geld zu verdienen.
+  - Absatz 10.6. Das Abwerben von Spielern für andere Minecraft-, Discord- oder TeamSpeak-Server ist nicht erwünscht und wird bestraft.
+
+  - Absatz 10.7. Das Betteln nach Ingamerechten, Banns/Mutes, Rängen, Items, oder Ingame-Geld ist nicht gestattet. Jeder Spieler hat die Möglichkeit, auf dem Server einem Job (/jobs) nachzugehen und sich so sein Ingame-Geld zu verdienen.
 
 - Absatz 11. Handel & Versteigerungen
 

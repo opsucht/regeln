@@ -87,7 +87,7 @@
 - **Absatz 8:** Bauwerke, welche nicht mit § 1.3.2 Absatz 2 vereinbar sind, sind untersagt und werden bestraft.
 - **Absatz 9:** Fallen wie TPA-Fallen sind verboten.
 - **Absatz 10:** Nutzung mehrer Accounts
-    - **Absatz 10.1:** Die Nutzung mehrerer Accounts ohne ausdrückliche Erlaubnis der Serverleitung ist untersagt. Dies dient der Fairness und Sicherheit innerhalb unseres Netzwerks.
+    - **Absatz 10.1:** Die Nutzung mehrerer Accounts ohne ausdrückliche Erlaubnis der Serverleitung ist unter Ausnahme von §4 Absatz 10.2 untersagt.
     - **Absatz 10.2:** Spielern ist es gestattet, jeweils einen Java- und einen Bedrock-Account zu besitzen und zu verwenden. Es ist jedoch nicht erlaubt, mit beiden Accounts gleichzeitig online zu sein.
 - **Absatz 11:** Chatverhalten
     - **Absatz 11.1:** Der Chat dient zur allgemeinen Kommunikation und nicht zum Erregen von Ärgernissen.

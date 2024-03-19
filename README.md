@@ -78,7 +78,8 @@
 - **Absatz 1:** Bei Verlust von Items oder Ingame-Währung wird generell keine Erstattung geleistet.
 - **Absatz 2:** Modifikationen
     - **Absatz 2.1:** Erlaubte Modifikationen umfassen Chatmodifikationen, Dynamic Lights, Shader Mod, LabyMod, OptiFine, MorePlayerModels, BadlionClient und Ressource Packs, sofern nicht als X-Ray genutzt.
-    - **Absatz 2.2:** Nicht genannte Modifikationen, die einen **unfairen Vorteil verschaffen**, sind verboten.
+    - **Absatz 2.2:** Modifikationen, die das Planen und Visualisieren von Bauten unterstützen, sind erlaubt, solange keine automatisierten Bau-Funktionen ("Printer"-Modi) genutzt werden. Der EasyPlace-Modus ist gestattet, da er manuelles Bauen fördert, ohne unfaire Vorteile zu bieten. Die Verwendung automatisierter Baufunktionen ist untersagt und wird sanktioniert.
+    - **Absatz 2.3:** Nicht genannte Modifikationen, die einen **unfairen Vorteil verschaffen**, sind verboten.
 - **Absatz 3:** Das Ausnutzen von Spiel- und Programmierfehlern ist verboten und muss gemeldet werden.
 - **Absatz 4:** Das Missbrauchen und Spammen von Befehlen wird mit einem Chat-Ausschluss bestraft.
 - **Absatz 5:** Die Nutzung exklusiv für diesen Server gebauter Karten ohne Erlaubnis ist verboten.

@@ -99,6 +99,7 @@
     - **Absatz 11.5:** Das Abwerben von Spielern für andere Server ist untersagt.
     - **Absatz 11.6:** Betteln nach Ingame-Rechten, Rängen oder Items ist nicht gestattet.
     - **Absatz 11.7:** Werbung für persönliche Shops und Angebote ist erlaubt, jedoch nur alle 15 Minuten, um Spam zu vermeiden.
+    - **Absatz 11.8:** Das Bewerben von Glücksspiel-bezogenen Aktivitäten oder Einrichtungen, einschließlich Casinos, ist im öffentlichen Chat strikt verboten. Dieses Verbot unterstützt den Jugendschutz und die Suchtprävention, um ein verantwortungsvolles Gemeinschaftsumfeld zu fördern. Werbung für eigene Angebote und Projekte ist gestattet, vorausgesetzt, sie enthält keine, ob direkte oder indirekte, Hinweise auf Glücksspiel. Die Werbung muss klar von Glücksspielinhalten abgegrenzt sein, um jegliche Assoziationen zu vermeiden. Das Bewerben von SWs, die nicht auf Glücksspiel hindeuten, bleibt unter der Bedingung von §4 Absatz 11.7 erlaubt. Wir bitten alle Nutzer, diese Vorgaben zu respektieren, um ein sicheres und inklusives Spielumfeld zu erhalten.
 - **Absatz 12:** Handel & Versteigerungen
     - **Absatz 12.1:** Das Abbrechen einer Versteigerung mit Geboten ist verboten.
     - **Absatz 12.2:** Das Zurückziehen eines Gebots bei einer laufenden Versteigerung ist verboten.

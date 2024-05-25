@@ -39,11 +39,11 @@
 - **Absatz 5:** Drohungen, egal ob sie an ein Teammitglied oder einen User gerichtet sind, werden schwer bestraft.
 - **Absatz 6:** Jegliche Art von Werbung zum eigenen Zweck ist verboten. Eine Absprache ist in diesem Fall möglich.
 - **Absatz 7:** Private Daten dürfen nicht öffentlich ausgetauscht werden. Ein Teammitglied von OPSUCHT.NET wird dich niemals nach vertraulichen Daten wie Passwörtern fragen.
-- **Absatz 8:** Jegliche Art von Handel mit Echtgeld ist verboten. Ränge sind nur im offiziellen Shop erhältlich.
+- **Absatz 8:** Jegliche Art von Handel mit Echtgeld ist verboten. Ränge, Kristalle und weiteres sind nur im offiziellen Shop erhältlich.
 - **Absatz 9:** Jegliche Angriffe gegen das Netzwerk werden zur Strafanzeige gebracht.
 - **Absatz 10:** Das Provozieren anderer ist zu unterlassen.
 - **Absatz 11:** Das Hetzen gegen Teammitglieder oder gegen den Server wird schwer bestraft.
-- **Absatz 12:** Jeder Nutzer ist für seinen eigenen Account verantwortlich und hat ein sicheres Passwort zu wählen.
+- **Absatz 12:** Jeder Nutzer ist für seinen eigenen Account verantwortlich und hat ein sicheres Passwort zu wählen. Wir behalten uns vor, bei Accountverlust einen Sicherheitsbann auszusprechen.
 - **Absatz 13:** Die Umgehung eines Chat- oder Serverausschlusses ist verboten und wird mit einem permanenten Serverausschluss bestraft.
 
 ## § 2 Rechte
@@ -100,6 +100,10 @@
     - **Absatz 11.6:** Betteln nach Ingame-Rechten, Rängen oder Items ist nicht gestattet.
     - **Absatz 11.7:** Werbung für persönliche Shops und Angebote ist erlaubt, jedoch nur alle 15 Minuten, um Spam zu vermeiden.
     - **Absatz 11.8:** Die Werbung durch Nutzer für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist im öffentlichen Chat strikt verboten, um den Jugendschutz und die Suchtprävention zu stärken. Eigene Angebote und Projekte dürfen beworben werden, sofern sie keine direkten oder indirekten Hinweise auf Glücksspiel beinhalten. Die Werbung muss eindeutig von Glücksspielinhalten abgegrenzt sein. Offizielle servereigene Einrichtungen, wie das Servercasino und die Kisten, die unter strengen Richtlinien betrieben werden, sind von diesem Verbot nicht betroffen. Das Bewerben von Spieler-Warps (SWs), die keinerlei Anspielung auf Glücksspiel enthalten, bleibt unter der Bedingung von §4 Absatz 11.7 erlaubt. Wir bitten alle Community-Mitglieder, diese Regelungen zu beachten, um gemeinsam ein sicheres und einladendes Umfeld für alle Spieler zu schaffen.
+    - **Absatz 11.9:** Jegliche Links im Chat sind untersagt, mit der einzigen Ausnahme der offiziellen Links von OPSUCHT.NET, wie z.B. wiki.opsucht.net.
+    - **Absatz 11.10:** Aufforderungen zum Spammen, wie z.B. “Spammt alle F in den Chat!”, sind untersagt.
+    - **Absatz 11.11:** Drogenverherrlichendes Verhalten im Chat ist untersagt.
+    - **Absatz 11.12:** Fake-Nachrichten, wie z.B. „Du hast Spieler A 100$ gegeben“, sind untersagt.
 - **Absatz 12:** Handel & Versteigerungen
     - **Absatz 12.1:** Das Abbrechen einer Versteigerung mit Geboten ist verboten.
     - **Absatz 12.2:** Das Zurückziehen eines Gebots bei einer laufenden Versteigerung ist verboten.

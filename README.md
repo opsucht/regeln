@@ -76,7 +76,6 @@
 - **Absatz 6:** Das Mitschneiden von Gesprächen ohne Erlaubnis ist nicht erlaubt.
 - **Absatz 7:** Das Verraten einer zweiten Identität eines Teammitglieds ist untersagt.
 - **Absatz 8:** Unangemessenes Anschreiben von Teammitgliedern ist nicht erwünscht.
-- **Absatz 9:** Jegliche Werbung für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist strikt verboten, um den Jugendschutz und die Suchtprävention zu stärken.
 
 ## § 4 Besondere Regelungen für Minecraft
 
@@ -84,7 +83,7 @@
 - **Absatz 2:** Modifikationen
     - **Absatz 2.1:** Erlaubte Modifikationen umfassen Chatmodifikationen, Dynamic Lights, Shader Mod, LabyMod, OptiFine, MorePlayerModels, BadlionClient und Ressource Packs, sofern nicht als X-Ray genutzt.
     - **Absatz 2.2:** Modifikationen, die das Planen und Visualisieren von Bauten unterstützen, sind erlaubt, solange keine automatisierten Bau-Funktionen ("Printer"-Modi) genutzt werden. Der EasyPlace-Modus ist gestattet, da er manuelles Bauen fördert, ohne unfaire Vorteile zu bieten. Die Verwendung automatisierter Baufunktionen ist untersagt und wird sanktioniert.
-    - **Absatz 2.3.** Die Verwendung von Fullbright-Mods ist auf unserem Server verboten. Offizielle Ingame-Perks bieten ähnliche Vorteile und unterstützen gleichzeitig die Serverentwicklung, während sie ein gerechtes Spielfeld für alle gewährleisten.
+    - **Absatz 2.3.** Die Verwendung von Fullbright-Mods ist auf unserem Server unerwünscht. Offizielle Ingame-Perks bieten ähnliche Vorteile und unterstützen gleichzeitig die Serverentwicklung, während sie ein gerechtes Spielfeld für alle gewährleisten.
     - **Absatz 2.4:** Nicht genannte Modifikationen, die einen **unfairen Vorteil verschaffen**, sind verboten.
 - **Absatz 3:** Das Ausnutzen von Spiel- und Programmierfehlern ist verboten und muss gemeldet werden.
 - **Absatz 4:** Das Missbrauchen und Spammen von Befehlen wird mit einem Chat-Ausschluss bestraft.
@@ -104,11 +103,10 @@
     - **Absatz 11.5:** Das Abwerben von Spielern für andere Server ist untersagt.
     - **Absatz 11.6:** Betteln nach Ingame-Rechten, Rängen oder Items ist nicht gestattet.
     - **Absatz 11.7:** Werbung für persönliche Shops und Angebote ist erlaubt, jedoch nur alle 15 Minuten, um Spam zu vermeiden.
-    - **Absatz 11.8:** Die Werbung durch Nutzer für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist im öffentlichen Chat strikt verboten, um den Jugendschutz und die Suchtprävention zu stärken. Jegliche Art von Werbung für Glücksspiel, einschließlich servereigener Einrichtungen wie die Kisten, ist ebenfalls von diesem Verbot betroffen. Das Bewerben von Spieler-Warps (SWs), die keinerlei Anspielung auf Glücksspiel enthalten, bleibt unter der Bedingung von §4 Absatz 11.7 erlaubt. Wir bitten alle Community-Mitglieder, diese Regelungen zu beachten, um gemeinsam ein sicheres und einladendes Umfeld für alle Spieler zu schaffen.
-    - **Absatz 11.9:** Das Posten von Links im Chat ist untersagt, außer es handelt sich um offizielle Links von OPSUCHT.NET, wie z.B. wiki.opsucht.net.
-    - **Absatz 11.10:** Aufforderungen zum Spammen, wie z.B. 'Spammt alle F in den Chat!', sind verboten.
-    - **Absatz 11.11:** Drogenverherrlichendes Verhalten im Chat ist untersagt.
-    - **Absatz 11.12:** Fake-Nachrichten, wie z.B. „Du hast Spieler A 100$ gegeben“, sind untersagt.
+    - **Absatz 11.8:** Das Posten von Links im Chat ist untersagt, außer es handelt sich um offizielle Links von OPSUCHT.NET, wie z.B. wiki.opsucht.net.
+    - **Absatz 11.9:** Aufforderungen zum Spammen, wie z.B. 'Spammt alle F in den Chat!', sind verboten.
+    - **Absatz 11.10:** Drogenverherrlichendes Verhalten im Chat ist untersagt.
+    - **Absatz 11.11:** Fake-Nachrichten, wie z.B. „Du hast Spieler A 100$ gegeben“, sind untersagt.
 - **Absatz 12:** Handel & Versteigerungen
     - **Absatz 12.1:** Das Abbrechen einer Versteigerung mit Geboten ist verboten.
     - **Absatz 12.2:** Das Zurückziehen eines Gebots bei einer laufenden Versteigerung ist verboten.

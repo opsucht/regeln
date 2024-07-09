@@ -10,7 +10,7 @@
 
 ### § 1.2 Gültigkeit des Regelwerks
 - **Absatz 1:** Die Administration behält sich das Recht vor, das Regelwerk jederzeit zu ändern. Änderungen sind ab dem Zeitpunkt der Änderung gültig.
-- **Absatz 2:** Mit der Nutzung des Netzwerks stimmst du diesem Regelwerk zu.
+- **Absatz 2:** Die Nutzung des Netzwerks setzt die Zustimmung zu diesem Regelwerk voraus.
 
 ### § 1.3 Grundsätze
 
@@ -83,7 +83,7 @@
 - **Absatz 2:** Modifikationen
     - **Absatz 2.1:** Erlaubte Modifikationen umfassen Chatmodifikationen, Dynamic Lights, Shader Mod, LabyMod, OptiFine, MorePlayerModels, BadlionClient und Ressource Packs, sofern nicht als X-Ray genutzt.
     - **Absatz 2.2:** Modifikationen, die das Planen und Visualisieren von Bauten unterstützen, sind erlaubt, solange keine automatisierten Bau-Funktionen ("Printer"-Modi) genutzt werden. Der EasyPlace-Modus ist gestattet, da er manuelles Bauen fördert, ohne unfaire Vorteile zu bieten. Die Verwendung automatisierter Baufunktionen ist untersagt und wird sanktioniert.
-    - **Absatz 2.3.** Die Verwendung von Fullbright-Mods ist auf unserem Server unerwünscht. Offizielle Ingame-Perks bieten ähnliche Vorteile und unterstützen gleichzeitig die Serverentwicklung, während sie ein gerechtes Spielfeld für alle gewährleisten.
+    - **Absatz 2.3.** Die Verwendung von Fullbright-Mods ist auf unserem Server strikt unerwünscht. Offizielle Ingame-Perks bieten ähnliche Vorteile und unterstützen gleichzeitig die Serverentwicklung, während sie ein gerechtes Spielfeld für alle gewährleisten.
     - **Absatz 2.4:** Nicht genannte Modifikationen, die einen **unfairen Vorteil verschaffen**, sind verboten.
 - **Absatz 3:** Das Ausnutzen von Spiel- und Programmierfehlern ist verboten und muss gemeldet werden.
 - **Absatz 4:** Das Missbrauchen und Spammen von Befehlen wird mit einem Chat-Ausschluss bestraft.

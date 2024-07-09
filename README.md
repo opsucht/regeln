@@ -109,5 +109,5 @@
     - **Absatz 12.3:** Fake-Gebote sind untersagt.
 - **Absatz 13:** Wir behalten uns das Recht vor, Spieler-Warps (SWs) zu löschen, wenn sie gegen unsere Regeln verstoßen.
 - **Absatz 14:** Der Handel mit Fremdwährungen, z.B. LabyMod-Cosmetics, ist verboten.
-- **Absatz 15:** Jegliche Werbung für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist auf dem gesamten Netzwerk strengstens verboten, um Jugendschutz und Suchtprävention zu gewährleisten.
+- **Absatz 15:** Jegliche Werbung für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist auf dem gesamten Netzwerk strengstens untersagt, um Jugendschutz und Suchtprävention zu gewährleisten, mit Ausnahme von netzwerkeigenen Initiativen.
 - **Absatz 16:** Das Tragen von rechtswidrigen oder pornografischen Capes (z.B. LabyMod-Capes) ist verboten.

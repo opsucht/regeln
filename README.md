@@ -18,7 +18,7 @@
 - **Absatz 1:** Wir bitten alle User, auf dem gesamten Netzwerk den gleichen Usernamen zu verwenden, den sie in Minecraft nutzen. Dies dient der Übersichtlichkeit.
 - **Absatz 2:** Das Faken von Teammitgliedern, YouTubern und anderen Personen des öffentlichen Lebens ist untersagt.
 - **Absatz 3:** Nutzernamen dürfen keine beleidigenden, sexuellen, rassistischen oder diskriminierenden Inhalte haben.
-- **Absatz 4:** Wir behalten uns das Recht vor, unzulässige Nutzernamen permanent vom Netzwerk zu sperren.
+- **Absatz 4:** Wir behalten uns das Recht vor, unzulässige Nutzernamen dauerhaft vom Netzwerk auszuschließen.
 
 #### § 1.3.2 Beleidigungen & Radikalismus
 - **Absatz 1:** Auf dem gesamten Netzwerk gilt eine allgemeine Netiquette. Wer andere beleidigt, ob direkt oder subtil, muss mit einem Ausschluss vom Netzwerk-Bereich rechnen.
@@ -39,12 +39,16 @@
 - **Absatz 5:** Drohungen, egal ob sie an ein Teammitglied oder einen User gerichtet sind, werden schwer bestraft.
 - **Absatz 6:** Jegliche Art von Werbung zum eigenen Zweck ist verboten. Eine Absprache ist in diesem Fall möglich.
 - **Absatz 7:** Private Daten dürfen nicht öffentlich ausgetauscht werden. Ein Teammitglied von OPSUCHT.NET wird dich niemals nach vertraulichen Daten wie Passwörtern fragen.
-- **Absatz 8:** Jegliche Art von Handel mit Echtgeld ist verboten. Ränge sind nur im offiziellen Shop erhältlich.
+- **Absatz 8:** Jegliche Art von Handel mit Echtgeld ist verboten. Ränge, Kristalle und weiteres sind nur im offiziellen Shop erhältlich.
 - **Absatz 9:** Jegliche Angriffe gegen das Netzwerk werden zur Strafanzeige gebracht.
 - **Absatz 10:** Das Provozieren anderer ist zu unterlassen.
 - **Absatz 11:** Das Hetzen gegen Teammitglieder oder gegen den Server wird schwer bestraft.
-- **Absatz 12:** Jeder Nutzer ist für seinen eigenen Account verantwortlich und hat ein sicheres Passwort zu wählen.
+- **Absatz 12:** Jeder Nutzer ist für seinen eigenen Account verantwortlich und hat ein sicheres Passwort zu wählen. Im Falle eines Accountverlusts kannst du einen Sicherheitsbann beantragen.
 - **Absatz 13:** Die Umgehung eines Chat- oder Serverausschlusses ist verboten und wird mit einem permanenten Serverausschluss bestraft.
+- **Absatz 14:** Wir behalten uns das Recht vor, Spieler-Warps (SWs) zu löschen, wenn sie gegen unsere Regeln verstoßen.
+- **Absatz 15:** Der Handel mit Fremdwährungen, z.B. LabyMod-Cosmetics, ist verboten.
+- **Absatz 16:** Jegliche Werbung für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist auf dem gesamten Netzwerk strengstens verboten, um Jugendschutz und Suchtprävention zu gewährleisten.
+- **Absatz 17:** Das Tragen von rechtswidrigen oder pornografischen Capes (z.B. LabyMod-Capes) ist verboten.
 
 ## § 2 Rechte
 
@@ -59,7 +63,7 @@
     - **Absatz 1.2:** Das Verwenden von Sonderzeichen in Namen ist gestattet, sofern diese nicht gegen die Grundsätze verstoßen.
     - **Absatz 1.3:** Avatare dürfen keine beleidigenden, sexuellen, rassistischen oder diskriminierenden Inhalte haben.
     - **Absatz 1.4:** Drogenverherrlichende Avatare sind nicht gestattet.
-    - **Absatz 1.5:** Avatare, die epileptische Anfälle hervorrufen können, sind verboten.
+    - **Absatz 1.5:** Avatare mit stark flackernden oder blitzenden Effekten, die epileptische Anfälle auslösen könnten, sind verboten.
 - **Absatz 2:** Das beabsichtigte Stören von Gesprächen wird sanktioniert.
 - **Absatz 3:** Musikbots und Plugins/Scripte
     - **Absatz 3.1:** Musikbots sowie Soundboards oder Stimmverzerrer/Voice-Changer sind nur in privaten, passwortgeschützten Channels erlaubt.
@@ -99,7 +103,10 @@
     - **Absatz 11.5:** Das Abwerben von Spielern für andere Server ist untersagt.
     - **Absatz 11.6:** Betteln nach Ingame-Rechten, Rängen oder Items ist nicht gestattet.
     - **Absatz 11.7:** Werbung für persönliche Shops und Angebote ist erlaubt, jedoch nur alle 15 Minuten, um Spam zu vermeiden.
-    - **Absatz 11.8:** Die Werbung durch Nutzer für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist im öffentlichen Chat strikt verboten, um den Jugendschutz und die Suchtprävention zu stärken. Eigene Angebote und Projekte dürfen beworben werden, sofern sie keine direkten oder indirekten Hinweise auf Glücksspiel beinhalten. Die Werbung muss eindeutig von Glücksspielinhalten abgegrenzt sein. Offizielle servereigene Einrichtungen, wie das Servercasino und die Kisten, die unter strengen Richtlinien betrieben werden, sind von diesem Verbot nicht betroffen. Das Bewerben von Spieler-Warps (SWs), die keinerlei Anspielung auf Glücksspiel enthalten, bleibt unter der Bedingung von §4 Absatz 11.7 erlaubt. Wir bitten alle Community-Mitglieder, diese Regelungen zu beachten, um gemeinsam ein sicheres und einladendes Umfeld für alle Spieler zu schaffen.
+    - **Absatz 11.8:** Das Posten von Links im Chat ist untersagt, außer es handelt sich um offizielle Links von OPSUCHT.NET, wie z.B. wiki.opsucht.net.
+    - **Absatz 11.9:** Aufforderungen zum Spammen, wie z.B. 'Spammt alle F in den Chat!', sind verboten.
+    - **Absatz 11.10:** Drogenverherrlichendes Verhalten im Chat ist untersagt.
+    - **Absatz 11.11:** Fake-Nachrichten, wie z.B. „Du hast Spieler A 100$ gegeben“, sind untersagt.
 - **Absatz 12:** Handel & Versteigerungen
     - **Absatz 12.1:** Das Abbrechen einer Versteigerung mit Geboten ist verboten.
     - **Absatz 12.2:** Das Zurückziehen eines Gebots bei einer laufenden Versteigerung ist verboten.

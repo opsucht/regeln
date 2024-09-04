@@ -77,7 +77,7 @@
 
 - **Absatz 1:** Bei Verlust von Items oder Ingame-Währung wird generell keine Erstattung geleistet.
 - **Absatz 2:** Modifikationen
-    - **Absatz 2.1:** Erlaubte Modifikationen umfassen Chatmodifikationen, Dynamic Lights, Shader Mod, LabyMod, OptiFine, MorePlayerModels, BadlionClient und Ressource Packs, sofern nicht als X-Ray genutzt.
+    - **Absatz 2.1:** Erlaubte Modifikationen umfassen Chatmodifikationen, Dynamic Lights, Shader Mod, LabyMod, OptiFine, MorePlayerModels, BadlionClient und Ressource Packs, sofern sie nicht als X-Ray oder in ähnlicher Weise zur unfairen Vorteilsverschaffung genutzt werden. Physische Modifikationen an Hardware oder Peripheriegeräten, die das Spielerlebnis oder die Eingabemöglichkeiten über das übliche Maß hinaus verändern, sind ebenfalls nicht gestattet.
     - **Absatz 2.2:** Modifikationen, die das Planen und Visualisieren von Bauten unterstützen, sind erlaubt, solange keine automatisierten Bau-Funktionen ("Printer"-Modi) genutzt werden. Der EasyPlace-Modus ist gestattet, da er manuelles Bauen fördert, ohne unfaire Vorteile zu bieten. Die Verwendung automatisierter Baufunktionen ist untersagt und wird sanktioniert.
     - **Absatz 2.3.** Die Verwendung von Fullbright-Mods ist auf unserem Server strikt unerwünscht. Offizielle Ingame-Perks bieten ähnliche Vorteile und unterstützen gleichzeitig die Serverentwicklung, während sie ein gerechtes Spielfeld für alle gewährleisten.
     - **Absatz 2.4:** Nicht genannte Modifikationen, die einen **unfairen Vorteil verschaffen**, sind verboten.

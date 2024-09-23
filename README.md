@@ -23,6 +23,7 @@
 #### § 1.3.2 Beleidigungen & Radikalismus
 - **Absatz 1:** Auf dem gesamten Netzwerk gilt eine allgemeine Netiquette. Wer andere beleidigt, ob direkt oder subtil, muss mit einem Ausschluss vom Netzwerk-Bereich rechnen.
 - **Absatz 2:** Jegliches menschenfeindliches, rassistisches, sexuelles, sexistisches, nationalsozialistische oder nach deutschem Recht unzulässiges Verhalten ist verboten.
+- **Absatz 3:** Politische Diskussionen oder das Verbreiten von politischen Inhalten sind auf dem Netzwerk untersagt, um Konflikte zu vermeiden und die Community harmonisch zu halten.
 
 #### § 1.3.3 Weitere Grundsätze
 - **Absatz 1:** Missverständnisse und Streitigkeiten unter Spielern sind privat zu behandeln und sollen nicht auf unserem Netzwerk ausgetragen werden.
@@ -72,12 +73,13 @@
 - **Absatz 6:** Das Mitschneiden von Gesprächen ohne Erlaubnis ist nicht erlaubt.
 - **Absatz 7:** Das Verraten einer zweiten Identität eines Teammitglieds ist untersagt.
 - **Absatz 8:** Unangemessenes Anschreiben von Teammitgliedern ist nicht erwünscht.
+- **Absatz 9:** Das Ausgeben als eine Person des öffentlichen Lebens ist auf TeamSpeak nicht gestattet.
 
 ## § 4 Besondere Regelungen für Minecraft
 
 - **Absatz 1:** Bei Verlust von Items oder Ingame-Währung wird generell keine Erstattung geleistet.
 - **Absatz 2:** Modifikationen
-    - **Absatz 2.1:** Erlaubte Modifikationen umfassen Chatmodifikationen, Dynamic Lights, Shader Mod, LabyMod, OptiFine, MorePlayerModels, BadlionClient und Ressource Packs, sofern nicht als X-Ray genutzt.
+    - **Absatz 2.1:** Erlaubte Modifikationen umfassen Chatmodifikationen, Dynamic Lights, Shader Mod, LabyMod, OptiFine, MorePlayerModels, BadlionClient und Resource Packs, sofern sie nicht als X-Ray oder in ähnlicher Weise zur unfairen Vorteilsverschaffung genutzt werden. Physische Modifikationen an deinen Eingabegeräten, die dir im Spiel Vorteile verschaffen, sind nicht erlaubt.
     - **Absatz 2.2:** Modifikationen, die das Planen und Visualisieren von Bauten unterstützen, sind erlaubt, solange keine automatisierten Bau-Funktionen ("Printer"-Modi) genutzt werden. Der EasyPlace-Modus ist gestattet, da er manuelles Bauen fördert, ohne unfaire Vorteile zu bieten. Die Verwendung automatisierter Baufunktionen ist untersagt und wird sanktioniert.
     - **Absatz 2.3.** Die Verwendung von Fullbright-Mods ist auf unserem Server strikt unerwünscht. Offizielle Ingame-Perks bieten ähnliche Vorteile und unterstützen gleichzeitig die Serverentwicklung, während sie ein gerechtes Spielfeld für alle gewährleisten.
     - **Absatz 2.4:** Nicht genannte Modifikationen, die einen **unfairen Vorteil verschaffen**, sind verboten.
@@ -107,6 +109,8 @@
     - **Absatz 12.1:** Das Abbrechen einer Versteigerung mit Geboten ist verboten.
     - **Absatz 12.2:** Das Zurückziehen eines Gebots bei einer laufenden Versteigerung ist verboten.
     - **Absatz 12.3:** Fake-Gebote sind untersagt.
+    - **Absatz 12.4:** Bei Mystery-Versteigerungen sind alle relevanten Informationen über das versteigerte Item offenzulegen. Irreführende oder unvollständige Angaben führen zur Ungültigkeit der Versteigerung und können sanktioniert werden.
+
 - **Absatz 13:** Wir behalten uns das Recht vor, Spieler-Warps (SWs) zu löschen, wenn sie gegen unsere Regeln verstoßen.
 - **Absatz 14:** Der Handel mit Fremdwährungen, z.B. LabyMod-Cosmetics, ist verboten.
 - **Absatz 15:** Jegliche Werbung für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist auf dem gesamten Netzwerk strengstens untersagt - mit Ausnahme von netzwerkeigenen Initiativen.

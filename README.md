@@ -23,7 +23,6 @@
 #### § 1.3.2 Beleidigungen & Radikalismus
 - **Absatz 1:** Auf dem gesamten Netzwerk gilt eine allgemeine Netiquette. Wer andere beleidigt, ob direkt oder subtil, muss mit einem Ausschluss vom Netzwerk-Bereich rechnen.
 - **Absatz 2:** Jegliches menschenfeindliches, rassistisches, sexuelles, sexistisches, nationalsozialistische oder nach deutschem Recht unzulässiges Verhalten ist verboten.
-- **Absatz 3:** Politische Diskussionen oder das Verbreiten von politischen Inhalten sind auf dem Netzwerk untersagt, um Konflikte zu vermeiden und die Community harmonisch zu halten.
 
 #### § 1.3.3 Weitere Grundsätze
 - **Absatz 1:** Missverständnisse und Streitigkeiten unter Spielern sind privat zu behandeln und sollen nicht auf unserem Netzwerk ausgetragen werden.
@@ -105,6 +104,7 @@
     - **Absatz 11.9:** Aufforderungen zum Spammen, wie z.B. 'Spammt alle F in den Chat!', sind verboten.
     - **Absatz 11.10:** Drogenverherrlichendes Verhalten im Chat ist untersagt.
     - **Absatz 11.11:** Fake-Nachrichten, wie z.B. „Du hast Spieler A 100$ gegeben“, sind untersagt.
+    - **Absatz 11.12:** Politische Diskussionen oder das Verbreiten von politischen Inhalten ist untersagt, um Konflikte zu vermeiden und den Chat harmonisch zu halten.
 - **Absatz 12:** Handel & Versteigerungen
     - **Absatz 12.1:** Das Abbrechen einer Versteigerung mit Geboten ist verboten.
     - **Absatz 12.2:** Das Zurückziehen eines Gebots bei einer laufenden Versteigerung ist verboten.

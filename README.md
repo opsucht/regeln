@@ -72,7 +72,7 @@
 - **Absatz 6:** Das Mitschneiden von Gesprächen ohne Erlaubnis ist nicht erlaubt.
 - **Absatz 7:** Das Verraten einer zweiten Identität eines Teammitglieds ist untersagt.
 - **Absatz 8:** Unangemessenes Anschreiben von Teammitgliedern ist nicht erwünscht.
-- **Absatz 9:** Das Ausgeben als eine Person des öffentlichen Lebens ist auf TeamSpeak nicht gestattet.
+- **Absatz 9:** Das Ausgeben als eine Person des öffentlichen Lebens ist nicht gestattet.
 
 ## § 4 Besondere Regelungen für Minecraft
 

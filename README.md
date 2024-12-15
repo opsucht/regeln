@@ -110,6 +110,7 @@
     - **Absatz 12.2:** Das Zurückziehen eines Gebots bei einer laufenden Versteigerung ist verboten.
     - **Absatz 12.3:** Fake-Gebote sind untersagt.
     - **Absatz 12.4:** Bei "Mystery"-Versteigerungen sind alle relevanten Informationen über das versteigerte Item offenzulegen. Irreführende oder unvollständige Angaben führen zur Ungültigkeit der Versteigerung und können sanktioniert werden.
+    - **Absatz 12.5:** Das absichtliche Hochpushen von Versteigerungen, um den Erlös künstlich zu erhöhen, ist verboten und fällt ebenfalls unter Betrug. Spieler, die gegen diese Regel verstoßen, müssen mit Sanktionen rechnen.
 
 - **Absatz 13:** Wir behalten uns das Recht vor, Spieler-Warps (SWs) zu löschen, wenn sie gegen unsere Regeln verstoßen.
 - **Absatz 14:** Der Handel mit Fremdwährungen, z.B. LabyMod-Cosmetics, ist verboten.

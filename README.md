@@ -111,6 +111,11 @@
     - **Absatz 12.3:** Fake-Gebote sind untersagt.
     - **Absatz 12.4:** Bei "Mystery"-Versteigerungen sind alle relevanten Informationen über das versteigerte Item offenzulegen. Irreführende oder unvollständige Angaben führen zur Ungültigkeit der Versteigerung und können sanktioniert werden.
     - **Absatz 12.5:** Das absichtliche Hochpushen von Versteigerungen, um den Erlös künstlich zu erhöhen, ist verboten und fällt ebenfalls unter Betrug. Spieler, die gegen diese Regel verstoßen, müssen mit Sanktionen rechnen.
+- **Absatz 13:** Nicht-menschliche Bots & Automatisierte Tools
+    - **Absatz 13.1:** Als „Bot“ gelten alle eigenständig laufenden Programme, Dienste oder Skripte, die ohne direkte manuelle Eingabe eines Spielers Aktionen im Spiel ausführen (z. B. automatisches Abbauen, Farmen, Handeln, Kämpfen oder Chat-Interaktionen).
+    - **Absatz 13.2:** Der Einsatz von Non-Player-Bots, Agenten oder Automatisierungstools (z. B. Auto-Clicker, Makros, RPA-Software), die Eingaben simulieren oder Spielmechaniken ohne menschliches Zutun steuern, ist streng untersagt.
+    - **Absatz 13.3:** Auch halbautomatisierte Tools, die wiederkehrende Abläufe weitgehend selbstständig durchführen, fallen unter dieses Verbot, selbst wenn für deren Start oder Konfiguration einmalig eine manuelle Aktion erforderlich ist.
+    - **Absatz 13.4:** Verstöße gegen dieses Verbot werden mit einem sofortigen temporären Bann geahndet; wiederholte oder besonders gravierende Verstöße führen zu dauerhaftem Ausschluss vom Server.
 
 - **Absatz 13:** Wir behalten uns das Recht vor, Spieler-Warps (SWs) zu löschen, wenn sie gegen unsere Regeln verstoßen.
 - **Absatz 14:** Der Handel mit Fremdwährungen, z.B. LabyMod-Cosmetics, ist verboten.
